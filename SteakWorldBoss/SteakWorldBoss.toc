@@ -1,0 +1,4 @@
+## Interface: 30300
+## Title: SteakWorldBoss
+## Notes: Alert 1h, 30m, 10m and when Soulbreaker spawns as well as show a countdown timer.
+Core.lua

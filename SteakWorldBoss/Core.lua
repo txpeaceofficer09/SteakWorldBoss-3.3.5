@@ -44,7 +44,7 @@ Toast.fadeIn = 0.3
 Toast.hold = 5
 Toast.fadeOut = 0.5
 
-local spawnTimes = { {2, 0}, {10, 0}, {18, 0} }
+local spawnTimes = { {2, 0}, {8, 0}, {14, 0}, {20, 0} }
 local alertTimes = {60, 30, 10, 0}
 local fired = {}
 
